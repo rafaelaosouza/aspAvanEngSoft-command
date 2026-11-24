@@ -1,4 +1,4 @@
-# Command — Bloqueio de Conta
+# Command: Bloqueio de Conta
 
 Implementação do padrão de projeto **Command**, aplicada ao bloqueio e desbloqueio de contas bancárias.
 
